@@ -1,3 +1,8 @@
 body {
-    background: yellow;
+    background: #FDFD96;
+    text-align: center;
+  }
+
+#myPhoto {
+  max-height: 500px;
   }
